@@ -1,0 +1,14 @@
+# changing directory 
+cd local-repo/
+
+# to check the git file in local repo
+ls -la
+
+# to initialize the git file 
+git init
+# to remove the git file 
+rm -rf .git
+ls -la 
+# to check the status
+git status
+
